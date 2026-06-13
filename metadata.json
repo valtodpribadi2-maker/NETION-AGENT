@@ -1,0 +1,6 @@
+{
+  "name": "Notion Agents",
+  "description": "Interactive replica of the Notion Agents product landing page mimicking the design, layouts, and typography of the screenshots in high detail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
